@@ -20,3 +20,13 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+<appSettings>
+    <!-- Required settings -->
+    <add key="WSGI_HANDLER" value="django.core.wsgi.get_wsgi_application()" />
+    <!-- Your django path -->
+    <add key="PYTHONPATH" value="C:\inetpub\wwwroot\demodjango" /> 
+    <!-- Your djangoname.settings -->
+    <add key="DJANGO_SETTINGS_MODULE" value="demodjango.settings" />
+  </appSettings>
