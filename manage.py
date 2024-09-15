@@ -30,3 +30,4 @@ if __name__ == '__main__':
     <!-- Your djangoname.settings -->
     <add key="DJANGO_SETTINGS_MODULE" value="demodjango.settings" />
   </appSettings>
+https://onedrive.live.com/view?id=19E5441D50B45978!3215&resid=19E5441D50B45978!3215&authkey=!Annt_9dp_hEBwZI&wd=target(Business%20Plan.one|ddbea5a7-cc37-2643-af32-0b65b23799ea/Phishing%20Pattern%20Immediate%20Action%20Required%20Update%20Your%20Account%20Information|c7f7b7c2-09f5-4612-87bf-9287033e4c65/)&wdorigin=NavigationUrl&wdo=2&cid=19e5441d50b45978
